@@ -1,0 +1,352 @@
+SQL> @project1-3.sql
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+NAME
+--------------------------------------------------------------------------------
+IFC Films
+20th Century Studios
+
+
+MTITLE
+--------------------------------------------------------------------------------
+LANGUAGE
+--------------------------------------------------------------------------------
+Kung Fu Panda 4
+Chinese
+
+
+
+TITLE
+--------------------------------------------------------------------------------
+RELEASE_D
+---------
+RUNNING_TIME
+--------------------------------------------------------------------------------
+Road House
+27-JUN-24
+2H01M42S
+
+
+
+TITLE
+--------------------------------------------------------------------------------
+Road House
+Dune: Part Two
+
+
+NAME
+--------------------------------------------------------------------------------
+Daniel Day-Lewis
+Tom Hanks
+Audrey Hepburn
+Cate Blanchett
+Kate Winslet
+
+
+NUM_OF_MOVIES_WITH_AVERAGE_FIVE_STARS
+-------------------------------------
+				    1
+
+
+TITLE
+--------------------------------------------------------------------------------
+Road House
+
+
+TITLE
+--------------------------------------------------------------------------------
+Kung Fu Panda 4
+
